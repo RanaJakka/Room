@@ -6,6 +6,7 @@ package com.rana.Module;
 
 public class DataManagerModule {
     int i=10;
+    int j=12;
 
 
     // this the manages the data and shared preferences...
